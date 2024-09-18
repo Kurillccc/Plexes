@@ -1,0 +1,3 @@
+D:\Desktop\_\Универ\Семестр 4\Алгоритмы\Плексы\Плексы\x64\Debug\Плексы.vcxproj.AssemblyReference.cache
+D:\Desktop\_\Универ\Семестр 4\Алгоритмы\Плексы\Плексы\x64\Debug\Плексы.MyForm.resources
+D:\Desktop\_\Универ\Семестр 4\Алгоритмы\Плексы\Плексы\x64\Debug\Плексы.vcxproj.GenerateResource.cache
